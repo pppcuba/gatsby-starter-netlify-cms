@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Ya tu sabe
-image: /img/home-jumbotron.jpg
+image: /img/juniper.jpg
 heading: Pinet Telecomunicaciones
 subheading: Empresa de Telecomunicaciones y.. no sé que mas
 mainpitch:
