@@ -1,18 +1,18 @@
 ---
 templateKey: index-page
-title: Ya tu sabe
+title: Ingenieros en Telecomunicaciones
 image: /img/juniper.jpg
 heading: Pinet Telecomunicaciones
-subheading: Empresa de Telecomunicaciones y.. no sé que mas
+subheading: 'Conectividad, Internet, Telefonía IP, Cobertura Wifi, Redes de Datos. '
 mainpitch:
-  title: Keep Calm and RTFM
+  title: En las Redes TODO es posible...
   description: |
-    Somos una empresa Internacional >D
+    Keep Calm and RTFM
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Somos una empresa que trabaja en soluciones de Telecomunicaciones, tanto en el
+  hogar como en grandes empresas. Tenemos la experiencia en equipos de todo tipo
+  y nos adaptamos a las características económicas y fisicas del cliente.
+  Creamos soluciones, damos ideas y mejoramos su estructura de red. 
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -42,7 +42,7 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
+  heading: Servicios que ofrecemos
   description: |
     Prueba de una pagina con la muela bla bla bla
 main:
