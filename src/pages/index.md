@@ -15,13 +15,12 @@ description: >-
   Creamos soluciones, damos ideas y mejoramos su estructura de red. 
 intro:
   blurbs:
-    - image: /img/img-20180918-wa0022.jpg
+    - image: /img/telip.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        Migramos su telefonía antigua por Telefonos IP. Sin ruido, sin
+        interrupciones, equipos modernos, características especiales, facil
+        acceso y mucho mas. Creamos estructuras y configuraciones especiales de
+        acuerdo su escenario.
     - image: /img/coffee-gear.png
       text: >
         We offer a small, but carefully curated selection of brewing gear and
