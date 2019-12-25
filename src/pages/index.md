@@ -15,7 +15,7 @@ description: >-
   Creamos soluciones, damos ideas y mejoramos su estructura de red. 
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/img-20180918-wa0022.jpg
       text: >
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
